@@ -1,0 +1,10 @@
+01,concierto,musical,12500,10,125000.0
+02,festival,familiar,8000,10,80000.0
+01,concierto,musical,12500,10,125000.0
+01,concierto,musical,12500,1,12500.0
+02,festival,familiar,8000,1,9200.0
+01,concierto,musical,12500,1,15625.0
+01,concierto,musical,12500,10,156250.0
+04,partido de futbol,familiar,8000,24,220800.0
+01,concierto,musical,12500,10,0.0
+06,patinaje,familiar,8000,5,40000.0

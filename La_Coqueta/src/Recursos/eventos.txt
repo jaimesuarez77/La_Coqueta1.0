@@ -1,0 +1,6 @@
+01,concierto,musical,12500
+02,festival,familiar,8000
+03,ferxxocalipsis,musical,12500
+04,partido de futbol,familiar,8000
+05,encuentro de bandas de música,musical,12500
+06,patinaje,familiar,8000
